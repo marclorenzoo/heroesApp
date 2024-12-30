@@ -6,3 +6,4 @@
 2. Ejecutar el ```npm install```
 3. Levantar backend ```npm run backend```
 4. Ejecutar la app ```ng server -o``` o ```npm start```
+w
